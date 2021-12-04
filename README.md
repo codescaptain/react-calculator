@@ -1,3 +1,8 @@
+# Project Image
+<div style="display:flex;flex-direction:row;justify-content:center;align-items:center;">
+  <img alt="calculator" height="300" width="300" src="https://github.com/codescaptain/react-calculator/blob/main/Ekran%20Resmi%202021-12-04%2014.30.20.png?raw=true"/>
+</div
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
